@@ -1,0 +1,27 @@
+.app {
+    height: 300px;    
+    margin: 5px auto auto 5px;
+    padding-top: 20px;
+}
+
+.divbtn {
+    text-align: center;
+    color: blue;
+}
+.tableNum {    
+    display: flex;
+        
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.numBox {
+    
+    text-align: center;
+    
+
+}
+img {
+    width: 100px;
+    
+}
